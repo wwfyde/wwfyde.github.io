@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e}from"./chunks/framework.B_unCYUt.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Infra-Nats.md","filePath":"Infra-Nats.md","lastUpdated":1714624662000}'),r={name:"Infra-Nats.md"};function s(n,o,c,d,f,p){return a(),e("div")}const m=t(r,[["render",s]]);export{i as __pageData,m as default};

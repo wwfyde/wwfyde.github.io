@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t}from"./chunks/framework.B_unCYUt.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Infra-Faiss.md","filePath":"Infra-Faiss.md","lastUpdated":1726992622000}'),s={name:"Infra-Faiss.md"};function r(n,o,c,i,d,f){return e(),t("div")}const m=a(s,[["render",r]]);export{_ as __pageData,m as default};

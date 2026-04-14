@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t}from"./chunks/framework.B_unCYUt.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Infra-Kafka.md","filePath":"Infra-Kafka.md","lastUpdated":1714624662000}'),r={name:"Infra-Kafka.md"};function n(o,s,f,c,d,p){return e(),t("div")}const m=a(r,[["render",n]]);export{i as __pageData,m as default};
